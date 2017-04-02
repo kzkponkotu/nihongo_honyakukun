@@ -1,5 +1,7 @@
 # にほんごほんやくくんの使い方
 
+[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1YNluGjJ21jrWts6esmritCXaR9fo8tCy2I-Vv-dPvyQ/edit?usp=sharing)
+
 ## 準備
 
 ### 1. シートをコピーして自分のgoogleドライブ内に持ってきましょう
